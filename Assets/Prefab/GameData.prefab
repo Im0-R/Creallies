@@ -1,0 +1,304 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3995436574671601763
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1349363244876976599}
+  - component: {fileID: 8191931472826659979}
+  m_Layer: 0
+  m_Name: GameData
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 2147483647
+  m_IsActive: 1
+--- !u!4 &1349363244876976599
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3995436574671601763}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -798.6986, y: 805.6304, z: -21.245728}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8191931472826659979
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3995436574671601763}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3454f4a5c48217340acd24678ebec0b4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Allies:
+  - id: 1
+    rarity: 1
+    sprite: {fileID: 21300000, guid: 74541c29b7fcfd8409582d3c8c2c6390, type: 3}
+    spriteShiny: {fileID: 21300000, guid: 7cf1fad8d9bb0fb43ad07cd4f3c07a84, type: 3}
+    image: {fileID: 0}
+    name: Plushplush
+    canEvolve: 1
+    weight: 0
+    height: 0
+    zoneName: 0
+  - id: 2
+    rarity: 3
+    sprite: {fileID: 21300000, guid: 54595a25ecdd3844fa9f3a0049494329, type: 3}
+    spriteShiny: {fileID: 21300000, guid: 9e0ac23ef7f1d2f469941b5343c7662c, type: 3}
+    image: {fileID: 0}
+    name: Seasharp
+    canEvolve: 0
+    weight: 0
+    height: 0
+    zoneName: 0
+  - id: 3
+    rarity: 1
+    sprite: {fileID: 21300000, guid: a23c3b8864919674c9289fec6edb7baf, type: 3}
+    spriteShiny: {fileID: 21300000, guid: 6ff72a86f081d25409beac09f819f4c8, type: 3}
+    image: {fileID: 0}
+    name: Pensoul
+    canEvolve: 1
+    weight: 0
+    height: 0
+    zoneName: 0
+  - id: 4
+    rarity: 3
+    sprite: {fileID: 21300000, guid: eea532cae417f2c48a3712d9d9397549, type: 3}
+    spriteShiny: {fileID: 21300000, guid: 3803aef16fb23684ab39c358a0c0a7ec, type: 3}
+    image: {fileID: 0}
+    name: Brushadow
+    canEvolve: 0
+    weight: 0
+    height: 0
+    zoneName: 0
+  - id: 5
+    rarity: 1
+    sprite: {fileID: -5145907804721236674, guid: 48cd44333304ec644896f6b1d4d402b2, type: 3}
+    spriteShiny: {fileID: -771065696335008530, guid: 2ea7895391eb8df4390a24b094264932, type: 3}
+    image: {fileID: 0}
+    name: Compilican
+    canEvolve: 0
+    weight: 0
+    height: 0
+    zoneName: 0
+  - id: 6
+    rarity: 1
+    sprite: {fileID: 21300000, guid: 2d78672186bf04940b1499c95127aec9, type: 3}
+    spriteShiny: {fileID: 21300000, guid: 3e26e15bae9df2f4cbee80f1650332c4, type: 3}
+    image: {fileID: 0}
+    name: Squeak
+    canEvolve: 0
+    weight: 0
+    height: 0
+    zoneName: 0
+  - id: 7
+    rarity: 1
+    sprite: {fileID: -5145907804721236674, guid: 48cd44333304ec644896f6b1d4d402b2, type: 3}
+    spriteShiny: {fileID: -771065696335008530, guid: 2ea7895391eb8df4390a24b094264932, type: 3}
+    image: {fileID: 0}
+    name: Yek
+    canEvolve: 0
+    weight: 0
+    height: 0
+    zoneName: 0
+  - id: 8
+    rarity: 1
+    sprite: {fileID: 21300000, guid: 675c64baa7abea546a93754b6874b5bb, type: 3}
+    spriteShiny: {fileID: 21300000, guid: 13c6444ebf83b0a449444420c3ba46d0, type: 3}
+    image: {fileID: 0}
+    name: Javermin
+    canEvolve: 0
+    weight: 0
+    height: 0
+    zoneName: 0
+  - id: 9
+    rarity: 2
+    sprite: {fileID: -5145907804721236674, guid: 48cd44333304ec644896f6b1d4d402b2, type: 3}
+    spriteShiny: {fileID: -771065696335008530, guid: 2ea7895391eb8df4390a24b094264932, type: 3}
+    image: {fileID: 0}
+    name: Javaqueen
+    canEvolve: 0
+    weight: 0
+    height: 0
+    zoneName: 0
+  - id: 10
+    rarity: 2
+    sprite: {fileID: -5145907804721236674, guid: 48cd44333304ec644896f6b1d4d402b2, type: 3}
+    spriteShiny: {fileID: -771065696335008530, guid: 2ea7895391eb8df4390a24b094264932, type: 3}
+    image: {fileID: 0}
+    name: Cleanermit
+    canEvolve: 0
+    weight: 0
+    height: 0
+    zoneName: 0
+  - id: 11
+    rarity: 2
+    sprite: {fileID: 21300000, guid: 8c7250fbe77329e4f8703bf362079a73, type: 3}
+    spriteShiny: {fileID: 21300000, guid: a5b4b8bf0801e6749b1eccc47ab2f6f6, type: 3}
+    image: {fileID: 0}
+    name: Cigargoyle
+    canEvolve: 0
+    weight: 0
+    height: 0
+    zoneName: 0
+  - id: 12
+    rarity: 2
+    sprite: {fileID: -5145907804721236674, guid: 48cd44333304ec644896f6b1d4d402b2, type: 3}
+    spriteShiny: {fileID: -771065696335008530, guid: 2ea7895391eb8df4390a24b094264932, type: 3}
+    image: {fileID: 0}
+    name: Brawnny
+    canEvolve: 0
+    weight: 0
+    height: 0
+    zoneName: 0
+  - id: 13
+    rarity: 2
+    sprite: {fileID: 21300000, guid: b74aa45e1f6fc0f49bd2444782a5e705, type: 3}
+    spriteShiny: {fileID: 21300000, guid: 9cf54017b8767aa48af6968798045e0c, type: 3}
+    image: {fileID: 0}
+    name: Cinty
+    canEvolve: 1
+    weight: 0
+    height: 0
+    zoneName: 0
+  - id: 14
+    rarity: 3
+    sprite: {fileID: 21300000, guid: 46c4c2dcc6d8d51469863f9955e3addc, type: 3}
+    spriteShiny: {fileID: 21300000, guid: 462fb4b198a9203458605425d658c94c, type: 3}
+    image: {fileID: 0}
+    name: Minthia
+    canEvolve: 0
+    weight: 0
+    height: 0
+    zoneName: 0
+  - id: 15
+    rarity: 2
+    sprite: {fileID: -5145907804721236674, guid: 48cd44333304ec644896f6b1d4d402b2, type: 3}
+    spriteShiny: {fileID: -771065696335008530, guid: 2ea7895391eb8df4390a24b094264932, type: 3}
+    image: {fileID: 0}
+    name: Shriecken
+    canEvolve: 0
+    weight: 0
+    height: 0
+    zoneName: 0
+  - id: 16
+    rarity: 2
+    sprite: {fileID: -5145907804721236674, guid: 48cd44333304ec644896f6b1d4d402b2, type: 3}
+    spriteShiny: {fileID: -771065696335008530, guid: 2ea7895391eb8df4390a24b094264932, type: 3}
+    image: {fileID: 0}
+    name: Poltergeissler
+    canEvolve: 0
+    weight: 0
+    height: 0
+    zoneName: 0
+  - id: 17
+    rarity: 2
+    sprite: {fileID: -5145907804721236674, guid: 48cd44333304ec644896f6b1d4d402b2, type: 3}
+    spriteShiny: {fileID: -771065696335008530, guid: 2ea7895391eb8df4390a24b094264932, type: 3}
+    image: {fileID: 0}
+    name: Snaeky
+    canEvolve: 0
+    weight: 0
+    height: 0
+    zoneName: 0
+  - id: 18
+    rarity: 2
+    sprite: {fileID: 21300000, guid: 2b44e6c4ed6dfe94aaf7532443795e70, type: 3}
+    spriteShiny: {fileID: 21300000, guid: 2a781678ac675af4199b06bc24051380, type: 3}
+    image: {fileID: 0}
+    name: Kanglouglou
+    canEvolve: 0
+    weight: 0
+    height: 0
+    zoneName: 0
+  - id: 19
+    rarity: 2
+    sprite: {fileID: -5145907804721236674, guid: 48cd44333304ec644896f6b1d4d402b2, type: 3}
+    spriteShiny: {fileID: -771065696335008530, guid: 2ea7895391eb8df4390a24b094264932, type: 3}
+    image: {fileID: 0}
+    name: Robono
+    canEvolve: 0
+    weight: 0
+    height: 0
+    zoneName: 0
+  - id: 20
+    rarity: 2
+    sprite: {fileID: 21300000, guid: 48cd44333304ec644896f6b1d4d402b2, type: 3}
+    spriteShiny: {fileID: 21300000, guid: 2ea7895391eb8df4390a24b094264932, type: 3}
+    image: {fileID: 0}
+    name: Milestun
+    canEvolve: 1
+    weight: 0
+    height: 0
+    zoneName: 0
+  - id: 21
+    rarity: 3
+    sprite: {fileID: 21300000, guid: 4fdc9ed2ee2fc6844be417c102fd0965, type: 3}
+    spriteShiny: {fileID: 21300000, guid: bbbb66f82b55a454e917673c32b46244, type: 3}
+    image: {fileID: 0}
+    name: Hydreadline
+    canEvolve: 0
+    weight: 0
+    height: 0
+    zoneName: 0
+  - id: 22
+    rarity: 4
+    sprite: {fileID: -5145907804721236674, guid: 48cd44333304ec644896f6b1d4d402b2, type: 3}
+    spriteShiny: {fileID: -771065696335008530, guid: 2ea7895391eb8df4390a24b094264932, type: 3}
+    image: {fileID: 0}
+    name: Zennchide
+    canEvolve: 0
+    weight: 0
+    height: 0
+    zoneName: 0
+  - id: 23
+    rarity: 4
+    sprite: {fileID: -5145907804721236674, guid: 48cd44333304ec644896f6b1d4d402b2, type: 3}
+    spriteShiny: {fileID: -771065696335008530, guid: 2ea7895391eb8df4390a24b094264932, type: 3}
+    image: {fileID: 0}
+    name: Zennoga
+    canEvolve: 0
+    weight: 0
+    height: 0
+    zoneName: 0
+  - id: 24
+    rarity: 4
+    sprite: {fileID: -5145907804721236674, guid: 48cd44333304ec644896f6b1d4d402b2, type: 3}
+    spriteShiny: {fileID: -771065696335008530, guid: 2ea7895391eb8df4390a24b094264932, type: 3}
+    image: {fileID: 0}
+    name: Control-Z
+    canEvolve: 0
+    weight: 0
+    height: 0
+    zoneName: 0
+  Pokedex: []
+  PlayerBox: []
+  testSingleton: 
+  stockedAllie:
+    id: 0
+    rarity: 0
+    sprite: {fileID: 0}
+    spriteShiny: {fileID: 0}
+    image: {fileID: 0}
+    name: 
+    canEvolve: 0
+    weight: 0
+    height: 0
+    zoneName: 0
+  ButtonPressedName: 
+  ButtonPressedIndex: 0
+  QRCodeStr: 

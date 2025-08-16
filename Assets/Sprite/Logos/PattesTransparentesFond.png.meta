@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: 7cab2f0a28dcaf04eaec5d461d62e647
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9130429378036258549
+    second: PattesTransparentesFond_0
+  - first:
+      213: -578869139352661737
+    second: PattesTransparentesFond_1
+  - first:
+      213: 3805977275848013512
+    second: PattesTransparentesFond_2
+  - first:
+      213: 5166126398773981679
+    second: PattesTransparentesFond_3
+  - first:
+      213: -5289540177329197070
+    second: PattesTransparentesFond_4
+  - first:
+      213: -7456548044704816428
+    second: PattesTransparentesFond_5
+  - first:
+      213: -5725410696313578969
+    second: PattesTransparentesFond_6
+  - first:
+      213: 1333036037382291789
+    second: PattesTransparentesFond_7
+  - first:
+      213: -7734187292618182267
+    second: PattesTransparentesFond_8
+  - first:
+      213: 5867660315614711333
+    second: PattesTransparentesFond_9
+  - first:
+      213: 4354551406533772688
+    second: PattesTransparentesFond_10
+  - first:
+      213: 3215090019063619198
+    second: PattesTransparentesFond_11
+  - first:
+      213: -5357714634957811581
+    second: PattesTransparentesFond_12
+  - first:
+      213: -8505158815136571291
+    second: PattesTransparentesFond_13
+  - first:
+      213: -6689572299773232966
+    second: PattesTransparentesFond_14
+  - first:
+      213: 7023854372993487414
+    second: PattesTransparentesFond_15
+  - first:
+      213: -133782217371229623
+    second: PattesTransparentesFond_16
+  - first:
+      213: 6039596425662365840
+    second: PattesTransparentesFond_17
+  - first:
+      213: -1991938283443854314
+    second: PattesTransparentesFond_18
+  - first:
+      213: -8628302902526529985
+    second: PattesTransparentesFond_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PattesTransparentesFond_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 530
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f654ace42dc5be70800000000000000
+      internalID: 9130429378036258549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PattesTransparentesFond_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 587
+        width: 74
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 711d271b59177f7f0800000000000000
+      internalID: -578869139352661737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PattesTransparentesFond_2
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 468
+        width: 127
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c6312eda2c81d430800000000000000
+      internalID: 3805977275848013512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PattesTransparentesFond_3
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 587
+        width: 74
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe1f0bf9694c1b740800000000000000
+      internalID: 5166126398773981679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PattesTransparentesFond_4
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 530
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ffe221eb37c796b0800000000000000
+      internalID: -5289540177329197070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PattesTransparentesFond_5
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 440
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d26cb05f05058890800000000000000
+      internalID: -7456548044704816428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PattesTransparentesFond_6
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 497
+        width: 74
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72ad1056e414b80b0800000000000000
+      internalID: -5725410696313578969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PattesTransparentesFond_7
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 379
+        width: 127
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4147f89635ef7210800000000000000
+      internalID: 1333036037382291789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PattesTransparentesFond_8
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 497
+        width: 74
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 581372582a5aaa490800000000000000
+      internalID: -7734187292618182267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PattesTransparentesFond_9
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 440
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52e0fd608fd1e6150800000000000000
+      internalID: 5867660315614711333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PattesTransparentesFond_10
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 150
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0958f9ece697e6c30800000000000000
+      internalID: 4354551406533772688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PattesTransparentesFond_11
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 207
+        width: 75
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7ed03b865b4e9c20800000000000000
+      internalID: 3215090019063619198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PattesTransparentesFond_12
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 89
+        width: 128
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3809d670de295a5b0800000000000000
+      internalID: -5357714634957811581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PattesTransparentesFond_13
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 207
+        width: 75
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 560a081be1b97f980800000000000000
+      internalID: -8505158815136571291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PattesTransparentesFond_14
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 150
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab839bcaf6dd923a0800000000000000
+      internalID: -6689572299773232966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PattesTransparentesFond_15
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 61
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 632d958965eb97160800000000000000
+      internalID: 7023854372993487414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PattesTransparentesFond_16
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 117
+        width: 74
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 942e25838c5b42ef0800000000000000
+      internalID: -133782217371229623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PattesTransparentesFond_17
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 0
+        width: 127
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 090035233f4f0d350800000000000000
+      internalID: 6039596425662365840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PattesTransparentesFond_18
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 117
+        width: 75
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 614e3d85fa63b54e0800000000000000
+      internalID: -1991938283443854314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PattesTransparentesFond_19
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 61
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e2f60993c124880800000000000000
+      internalID: -8628302902526529985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PattesTransparentesFond_0: 9130429378036258549
+      PattesTransparentesFond_1: -578869139352661737
+      PattesTransparentesFond_10: 4354551406533772688
+      PattesTransparentesFond_11: 3215090019063619198
+      PattesTransparentesFond_12: -5357714634957811581
+      PattesTransparentesFond_13: -8505158815136571291
+      PattesTransparentesFond_14: -6689572299773232966
+      PattesTransparentesFond_15: 7023854372993487414
+      PattesTransparentesFond_16: -133782217371229623
+      PattesTransparentesFond_17: 6039596425662365840
+      PattesTransparentesFond_18: -1991938283443854314
+      PattesTransparentesFond_19: -8628302902526529985
+      PattesTransparentesFond_2: 3805977275848013512
+      PattesTransparentesFond_3: 5166126398773981679
+      PattesTransparentesFond_4: -5289540177329197070
+      PattesTransparentesFond_5: -7456548044704816428
+      PattesTransparentesFond_6: -5725410696313578969
+      PattesTransparentesFond_7: 1333036037382291789
+      PattesTransparentesFond_8: -7734187292618182267
+      PattesTransparentesFond_9: 5867660315614711333
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

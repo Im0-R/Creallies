@@ -1,0 +1,196 @@
+{
+    "savePokedex": [
+        {
+            "isPokemonCatched": true,
+            "isShinyObtained": true,
+            "captureLevel": 2,
+            "weight": 4.0,
+            "height": 4.0,
+            "zoneName": 0
+        },
+        {
+            "isPokemonCatched": true,
+            "isShinyObtained": false,
+            "captureLevel": 0,
+            "weight": 0.0,
+            "height": 0.0,
+            "zoneName": 0
+        },
+        {
+            "isPokemonCatched": false,
+            "isShinyObtained": false,
+            "captureLevel": 0,
+            "weight": 0.0,
+            "height": 0.0,
+            "zoneName": 0
+        },
+        {
+            "isPokemonCatched": false,
+            "isShinyObtained": false,
+            "captureLevel": 0,
+            "weight": 0.0,
+            "height": 0.0,
+            "zoneName": 0
+        },
+        {
+            "isPokemonCatched": false,
+            "isShinyObtained": false,
+            "captureLevel": 0,
+            "weight": 0.0,
+            "height": 0.0,
+            "zoneName": 0
+        },
+        {
+            "isPokemonCatched": false,
+            "isShinyObtained": false,
+            "captureLevel": 0,
+            "weight": 0.0,
+            "height": 0.0,
+            "zoneName": 0
+        },
+        {
+            "isPokemonCatched": false,
+            "isShinyObtained": false,
+            "captureLevel": 0,
+            "weight": 0.0,
+            "height": 0.0,
+            "zoneName": 0
+        },
+        {
+            "isPokemonCatched": false,
+            "isShinyObtained": false,
+            "captureLevel": 0,
+            "weight": 0.0,
+            "height": 0.0,
+            "zoneName": 0
+        },
+        {
+            "isPokemonCatched": false,
+            "isShinyObtained": false,
+            "captureLevel": 0,
+            "weight": 0.0,
+            "height": 0.0,
+            "zoneName": 0
+        },
+        {
+            "isPokemonCatched": false,
+            "isShinyObtained": false,
+            "captureLevel": 0,
+            "weight": 0.0,
+            "height": 0.0,
+            "zoneName": 0
+        },
+        {
+            "isPokemonCatched": false,
+            "isShinyObtained": false,
+            "captureLevel": 0,
+            "weight": 0.0,
+            "height": 0.0,
+            "zoneName": 0
+        },
+        {
+            "isPokemonCatched": false,
+            "isShinyObtained": false,
+            "captureLevel": 0,
+            "weight": 0.0,
+            "height": 0.0,
+            "zoneName": 0
+        },
+        {
+            "isPokemonCatched": false,
+            "isShinyObtained": false,
+            "captureLevel": 0,
+            "weight": 0.0,
+            "height": 0.0,
+            "zoneName": 0
+        },
+        {
+            "isPokemonCatched": false,
+            "isShinyObtained": false,
+            "captureLevel": 0,
+            "weight": 0.0,
+            "height": 0.0,
+            "zoneName": 0
+        },
+        {
+            "isPokemonCatched": false,
+            "isShinyObtained": false,
+            "captureLevel": 0,
+            "weight": 0.0,
+            "height": 0.0,
+            "zoneName": 0
+        },
+        {
+            "isPokemonCatched": false,
+            "isShinyObtained": false,
+            "captureLevel": 0,
+            "weight": 0.0,
+            "height": 0.0,
+            "zoneName": 0
+        },
+        {
+            "isPokemonCatched": false,
+            "isShinyObtained": false,
+            "captureLevel": 0,
+            "weight": 0.0,
+            "height": 0.0,
+            "zoneName": 0
+        },
+        {
+            "isPokemonCatched": false,
+            "isShinyObtained": false,
+            "captureLevel": 0,
+            "weight": 0.0,
+            "height": 0.0,
+            "zoneName": 0
+        },
+        {
+            "isPokemonCatched": false,
+            "isShinyObtained": false,
+            "captureLevel": 0,
+            "weight": 0.0,
+            "height": 0.0,
+            "zoneName": 0
+        },
+        {
+            "isPokemonCatched": false,
+            "isShinyObtained": false,
+            "captureLevel": 0,
+            "weight": 0.0,
+            "height": 0.0,
+            "zoneName": 0
+        },
+        {
+            "isPokemonCatched": false,
+            "isShinyObtained": false,
+            "captureLevel": 0,
+            "weight": 0.0,
+            "height": 0.0,
+            "zoneName": 0
+        },
+        {
+            "isPokemonCatched": false,
+            "isShinyObtained": false,
+            "captureLevel": 0,
+            "weight": 0.0,
+            "height": 0.0,
+            "zoneName": 0
+        },
+        {
+            "isPokemonCatched": false,
+            "isShinyObtained": false,
+            "captureLevel": 0,
+            "weight": 0.0,
+            "height": 0.0,
+            "zoneName": 0
+        },
+        {
+            "isPokemonCatched": true,
+            "isShinyObtained": false,
+            "captureLevel": 4,
+            "weight": 0.0,
+            "height": 0.0,
+            "zoneName": 0
+        }
+    ]
+}

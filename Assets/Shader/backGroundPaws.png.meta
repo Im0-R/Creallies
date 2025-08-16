@@ -1,0 +1,3250 @@
+fileFormatVersion: 2
+guid: 02014d326b959d04ba3e9fd12abc3196
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 732222534233573486
+    second: backGroundPaws 1_0
+  - first:
+      213: -2217919213325993022
+    second: backGroundPaws 1_1
+  - first:
+      213: -5826956995479660152
+    second: backGroundPaws 1_2
+  - first:
+      213: 3783834338843579320
+    second: backGroundPaws 1_3
+  - first:
+      213: 3039856737578238565
+    second: backGroundPaws 1_4
+  - first:
+      213: 782610178157458179
+    second: backGroundPaws 1_5
+  - first:
+      213: 8071346860502452482
+    second: backGroundPaws 1_6
+  - first:
+      213: -3141532696179424344
+    second: backGroundPaws 1_7
+  - first:
+      213: 3485337119586484525
+    second: backGroundPaws 1_8
+  - first:
+      213: 1213474138159097030
+    second: backGroundPaws 1_9
+  - first:
+      213: -8870256517855839426
+    second: backGroundPaws 1_10
+  - first:
+      213: -3857858817188673136
+    second: backGroundPaws 1_11
+  - first:
+      213: 283396215584038320
+    second: backGroundPaws 1_12
+  - first:
+      213: -5865721991193434967
+    second: backGroundPaws 1_13
+  - first:
+      213: 2252716487712431318
+    second: backGroundPaws 1_14
+  - first:
+      213: 8536472555792766856
+    second: backGroundPaws 1_15
+  - first:
+      213: -7615260955214787839
+    second: backGroundPaws 1_16
+  - first:
+      213: -6940417345364319562
+    second: backGroundPaws 1_17
+  - first:
+      213: 6556951658573432686
+    second: backGroundPaws 1_18
+  - first:
+      213: -4194971305919151411
+    second: backGroundPaws 1_19
+  - first:
+      213: 4136185393373561762
+    second: backGroundPaws 1_20
+  - first:
+      213: -6507431812444538643
+    second: backGroundPaws 1_21
+  - first:
+      213: 8385652099673565549
+    second: backGroundPaws 1_22
+  - first:
+      213: -2307216803157213170
+    second: backGroundPaws 1_23
+  - first:
+      213: 8091748906993580918
+    second: backGroundPaws 1_24
+  - first:
+      213: 8567064561161536716
+    second: backGroundPaws 1_25
+  - first:
+      213: -8187714756625556339
+    second: backGroundPaws 1_26
+  - first:
+      213: 3371411944539895843
+    second: backGroundPaws 1_27
+  - first:
+      213: -2129242784957818768
+    second: backGroundPaws 1_28
+  - first:
+      213: 7276431702611129981
+    second: backGroundPaws 1_29
+  - first:
+      213: 9020186451157180305
+    second: backGroundPaws 1_30
+  - first:
+      213: 1262804391411472312
+    second: backGroundPaws 1_31
+  - first:
+      213: 5747844343996737955
+    second: backGroundPaws 1_32
+  - first:
+      213: 4266577531542168379
+    second: backGroundPaws 1_33
+  - first:
+      213: -3445839650831449174
+    second: backGroundPaws 1_34
+  - first:
+      213: 3021092597021953228
+    second: backGroundPaws 1_35
+  - first:
+      213: 8131286345331802425
+    second: backGroundPaws 1_36
+  - first:
+      213: -7391765810888683428
+    second: backGroundPaws 1_37
+  - first:
+      213: 7301303224454651355
+    second: backGroundPaws 1_38
+  - first:
+      213: -7233964307801091256
+    second: backGroundPaws 1_39
+  - first:
+      213: 6713224069136472788
+    second: backGroundPaws 1_40
+  - first:
+      213: -1612459158061264546
+    second: backGroundPaws 1_41
+  - first:
+      213: -5912741220885966888
+    second: backGroundPaws 1_42
+  - first:
+      213: -3328427440777376312
+    second: backGroundPaws 1_43
+  - first:
+      213: 6632888869364571995
+    second: backGroundPaws 1_44
+  - first:
+      213: 2281119390521212323
+    second: backGroundPaws 1_45
+  - first:
+      213: 4607146301792331334
+    second: backGroundPaws 1_46
+  - first:
+      213: -454161631900394122
+    second: backGroundPaws 1_47
+  - first:
+      213: -6250516871989594766
+    second: backGroundPaws 1_48
+  - first:
+      213: -2550011604216152877
+    second: backGroundPaws 1_49
+  - first:
+      213: 5433512841217004054
+    second: backGroundPaws 1_50
+  - first:
+      213: -9014503250808598224
+    second: backGroundPaws 1_51
+  - first:
+      213: 8971976068610377447
+    second: backGroundPaws 1_52
+  - first:
+      213: 5241705695506357349
+    second: backGroundPaws 1_53
+  - first:
+      213: 7497452511947955690
+    second: backGroundPaws 1_54
+  - first:
+      213: 4943919304837217409
+    second: backGroundPaws 1_55
+  - first:
+      213: 7839434803373559540
+    second: backGroundPaws 1_56
+  - first:
+      213: -1053864650317308469
+    second: backGroundPaws 1_57
+  - first:
+      213: 1503404448081639595
+    second: backGroundPaws 1_58
+  - first:
+      213: 2616822973607427891
+    second: backGroundPaws 1_59
+  - first:
+      213: -3337116994218506919
+    second: backGroundPaws 1_60
+  - first:
+      213: 2601800237887857628
+    second: backGroundPaws 1_61
+  - first:
+      213: -1222826985642234263
+    second: backGroundPaws 1_62
+  - first:
+      213: 8795547358959292928
+    second: backGroundPaws 1_63
+  - first:
+      213: 6714802181881008505
+    second: backGroundPaws 1_64
+  - first:
+      213: 7434926879176158972
+    second: backGroundPaws 1_65
+  - first:
+      213: 6286139078585600374
+    second: backGroundPaws 1_66
+  - first:
+      213: 4266564492645775020
+    second: backGroundPaws 1_67
+  - first:
+      213: -6067135039786529274
+    second: backGroundPaws 1_68
+  - first:
+      213: -442748713147797934
+    second: backGroundPaws 1_69
+  - first:
+      213: -7845171769440505579
+    second: backGroundPaws 1_70
+  - first:
+      213: 1743172527481836117
+    second: backGroundPaws 1_71
+  - first:
+      213: 6006335855269548452
+    second: backGroundPaws 1_72
+  - first:
+      213: -8931121995082758200
+    second: backGroundPaws 1_73
+  - first:
+      213: 1732020888473182071
+    second: backGroundPaws 1_74
+  - first:
+      213: -4918400036652915989
+    second: backGroundPaws 1_75
+  - first:
+      213: -4936340677599569077
+    second: backGroundPaws 1_76
+  - first:
+      213: -75450109521423753
+    second: backGroundPaws 1_77
+  - first:
+      213: -1992012858058442080
+    second: backGroundPaws 1_78
+  - first:
+      213: 8661876343953620648
+    second: backGroundPaws 1_79
+  - first:
+      213: -5847181448729188592
+    second: backGroundPaws 1_80
+  - first:
+      213: -7645794428014426629
+    second: backGroundPaws 1_81
+  - first:
+      213: 557109346033968419
+    second: backGroundPaws 1_82
+  - first:
+      213: 3225975850837378528
+    second: backGroundPaws 1_83
+  - first:
+      213: 5913518648950897887
+    second: backGroundPaws 1_84
+  - first:
+      213: -4970430154363665206
+    second: backGroundPaws 1_85
+  - first:
+      213: 5334073692129103342
+    second: backGroundPaws 1_86
+  - first:
+      213: -4821397413645290242
+    second: backGroundPaws 1_87
+  - first:
+      213: 1343625107368403374
+    second: backGroundPaws 1_88
+  - first:
+      213: -8682748003720983283
+    second: backGroundPaws 1_89
+  - first:
+      213: 8668391555780184075
+    second: backGroundPaws 1_90
+  - first:
+      213: -2921333903996121393
+    second: backGroundPaws 1_91
+  - first:
+      213: 6085972208854957317
+    second: backGroundPaws 1_92
+  - first:
+      213: 7416944740773257982
+    second: backGroundPaws 1_93
+  - first:
+      213: 8261156142763290304
+    second: backGroundPaws 1_94
+  - first:
+      213: 5599627160397192955
+    second: backGroundPaws 1_95
+  - first:
+      213: 1699697717036694970
+    second: backGroundPaws 1_96
+  - first:
+      213: 3683264896781276960
+    second: backGroundPaws 1_97
+  - first:
+      213: -220716518447658638
+    second: backGroundPaws 1_98
+  - first:
+      213: -7368265006602447087
+    second: backGroundPaws 1_99
+  - first:
+      213: -1728332827468235228
+    second: backGroundPaws 1_100
+  - first:
+      213: 8551801539645321388
+    second: backGroundPaws 1_101
+  - first:
+      213: -6984031735444542710
+    second: backGroundPaws 1_102
+  - first:
+      213: 5091441812087942333
+    second: backGroundPaws 1_103
+  - first:
+      213: 797350261058489098
+    second: backGroundPaws 1_104
+  - first:
+      213: -6436827582848679497
+    second: backGroundPaws 1_105
+  - first:
+      213: 1100759229381109543
+    second: backGroundPaws 1_106
+  - first:
+      213: -6808892197849514474
+    second: backGroundPaws 1_107
+  - first:
+      213: 2256244644480010502
+    second: backGroundPaws 1_108
+  - first:
+      213: -3600808754838618414
+    second: backGroundPaws 1_109
+  - first:
+      213: -1156899202233418882
+    second: backGroundPaws 1_110
+  - first:
+      213: -9180423394762301991
+    second: backGroundPaws 1_111
+  - first:
+      213: 5243645994116115856
+    second: backGroundPaws 1_112
+  - first:
+      213: 2510587857284196704
+    second: backGroundPaws 1_113
+  - first:
+      213: -4427936781098941375
+    second: backGroundPaws 1_114
+  - first:
+      213: 8621003649867017391
+    second: backGroundPaws 1_115
+  - first:
+      213: 7351204208654554486
+    second: backGroundPaws 1_116
+  - first:
+      213: -6180998979357582001
+    second: backGroundPaws 1_117
+  - first:
+      213: 5967328202762062620
+    second: backGroundPaws 1_118
+  - first:
+      213: -8969773017307078270
+    second: backGroundPaws 1_119
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: backGroundPaws 1_0
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1909
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e684781f380692a00800000000000000
+      internalID: 732222534233573486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_1
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1966
+        width: 74
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cbb03df93e5831e0800000000000000
+      internalID: -2217919213325993022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_2
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1847
+        width: 127
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88915f23c7d722fa0800000000000000
+      internalID: -5826956995479660152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_3
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1966
+        width: 74
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b352b79841e28430800000000000000
+      internalID: 3783834338843579320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_4
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1909
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 562cd63d89dbf2a20800000000000000
+      internalID: 3039856737578238565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_5
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1876
+        width: 74
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3033ea28fc36cda00800000000000000
+      internalID: 782610178157458179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_6
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 1876
+        width: 74
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 209863fa43f230070800000000000000
+      internalID: 8071346860502452482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_7
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 1870
+        width: 74
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a343f948a80764d0800000000000000
+      internalID: -3141532696179424344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_8
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 1870
+        width: 74
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d218f67e4a76e5030800000000000000
+      internalID: 3485337119586484525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_9
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 1825
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c4a815ac4027d010800000000000000
+      internalID: 1213474138159097030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_10
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 1882
+        width: 74
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3bfb9291b486e480800000000000000
+      internalID: -8870256517855839426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_11
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 1764
+        width: 127
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0994cd778d1267ac0800000000000000
+      internalID: -3857858817188673136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_12
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 1882
+        width: 74
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bd93984b53dee300800000000000000
+      internalID: 283396215584038320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_13
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 1825
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a4e7bb4de4c89ea0800000000000000
+      internalID: -5865721991193434967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_14
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 1854
+        width: 74
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dcd3cdc5b1434f10800000000000000
+      internalID: 2252716487712431318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_15
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 1854
+        width: 74
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88716e2bf84a77670800000000000000
+      internalID: 8536472555792766856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_16
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1819
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b45843288215690800000000000000
+      internalID: -7615260955214787839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_17
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1758
+        width: 127
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b2a990423faeaf90800000000000000
+      internalID: -6940417345364319562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_18
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 1819
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e678da21bc8fefa50800000000000000
+      internalID: 6556951658573432686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_19
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 1813
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc28bbbb2d778c5c0800000000000000
+      internalID: -4194971305919151411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_20
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 1752
+        width: 127
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a3c03963bea66930800000000000000
+      internalID: 4136185393373561762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_21
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 1813
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de8ba239e35f0b5a0800000000000000
+      internalID: -6507431812444538643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_22
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 1797
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d692d03d722df5470800000000000000
+      internalID: 8385652099673565549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_23
+      rect:
+        serializedVersion: 2
+        x: 1821
+        y: 1735
+        width: 127
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e00800caa8e1bffd0800000000000000
+      internalID: -2307216803157213170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_24
+      rect:
+        serializedVersion: 2
+        x: 1946
+        y: 1797
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67bf10d42caab4070800000000000000
+      internalID: 8091748906993580918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_25
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1586
+        width: 75
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc40fdff3d354e670800000000000000
+      internalID: 8567064561161536716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_26
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1586
+        width: 75
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c1c192fc46f5e80800000000000000
+      internalID: -8187714756625556339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_27
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 1535
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3283fc11d49a9ce20800000000000000
+      internalID: 3371411944539895843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_28
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 1592
+        width: 75
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0789602e7f86372e0800000000000000
+      internalID: -2129242784957818768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_29
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 1474
+        width: 128
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d76f682d4141bf460800000000000000
+      internalID: 7276431702611129981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_30
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 1592
+        width: 75
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19fd30d49c32e2d70800000000000000
+      internalID: 9020186451157180305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_31
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 1535
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b752e247e1668110800000000000000
+      internalID: 1262804391411472312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_32
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1529
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a9e92c3af174cf40800000000000000
+      internalID: 5747844343996737955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_33
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1468
+        width: 128
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b33eb3ed8ade53b30800000000000000
+      internalID: 4266577531542168379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_34
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 1529
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa34c3b281bed20d0800000000000000
+      internalID: -3445839650831449174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_35
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 1496
+        width: 74
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc4e07e5b31de920800000000000000
+      internalID: 3021092597021953228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_36
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 1496
+        width: 75
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9318c7489d128d070800000000000000
+      internalID: 8131286345331802425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_37
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 1502
+        width: 74
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c505a13882c2b6990800000000000000
+      internalID: -7391765810888683428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_38
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 1502
+        width: 75
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd98034990735560800000000000000
+      internalID: 7301303224454651355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_39
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1440
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84359ab0acbcb9b90800000000000000
+      internalID: -7233964307801091256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_40
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 1378
+        width: 127
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4da5b7209b92a2d50800000000000000
+      internalID: 6713224069136472788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_41
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 1440
+        width: 59
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e51deec50f46f99e0800000000000000
+      internalID: -1612459158061264546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_42
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 1446
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8df4848cf29b1fda0800000000000000
+      internalID: -5912741220885966888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_43
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 1384
+        width: 127
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cd4dcb90ec0fc1d0800000000000000
+      internalID: -3328427440777376312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_44
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 1446
+        width: 59
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f1e1db841cc0c50800000000000000
+      internalID: 6632888869364571995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_45
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1222
+        width: 74
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3adb542fff928af10800000000000000
+      internalID: 2281119390521212323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_46
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1222
+        width: 74
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 646269ad62fdfef30800000000000000
+      internalID: 4607146301792331334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_47
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 1171
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67d17fbe66e72b9f0800000000000000
+      internalID: -454161631900394122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_48
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 1228
+        width: 74
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27579768504b149a0800000000000000
+      internalID: -6250516871989594766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_49
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 1109
+        width: 127
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc729dd4f98c9cd0800000000000000
+      internalID: -2550011604216152877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_50
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 1228
+        width: 74
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 612534f1427b76b40800000000000000
+      internalID: 5433512841217004054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_51
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 1171
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03113f4ed0d06e280800000000000000
+      internalID: -9014503250808598224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_52
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1165
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e6c3d6e2bcd28c70800000000000000
+      internalID: 8971976068610377447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_53
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1103
+        width: 127
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56c5ccdee874eb840800000000000000
+      internalID: 5241705695506357349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_54
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1165
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aed940f165d4c0860800000000000000
+      internalID: 7497452511947955690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_55
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 1132
+        width: 74
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18cb40be9645c9440800000000000000
+      internalID: 4943919304837217409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_56
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1132
+        width: 74
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fe4ae62b644bcc60800000000000000
+      internalID: 7839434803373559540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_57
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 1138
+        width: 74
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcdde742fabef51f0800000000000000
+      internalID: -1053864650317308469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_58
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 1138
+        width: 74
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8f5a1516a2dd410800000000000000
+      internalID: 1503404448081639595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_59
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 1075
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33fb3f541a2d05420800000000000000
+      internalID: 2616822973607427891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_60
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1014
+        width: 127
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 955cfa946cd20b1d0800000000000000
+      internalID: -3337116994218506919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_61
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1075
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd325db08837b1420800000000000000
+      internalID: 2601800237887857628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_62
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 1081
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96e680bd555a70fe0800000000000000
+      internalID: -1222826985642234263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_63
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 1020
+        width: 127
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 002d4efd8bf001a70800000000000000
+      internalID: 8795547358959292928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_64
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 1081
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97119040205cf2d50800000000000000
+      internalID: 6714802181881008505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_65
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 1046
+        width: 74
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfe6c4cca9a2e2760800000000000000
+      internalID: 7434926879176158972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_66
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 1046
+        width: 74
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 679cbc3cf2adc3750800000000000000
+      internalID: 6286139078585600374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_67
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 989
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca632730dc1e53b30800000000000000
+      internalID: 4266564492645775020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_68
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 927
+        width: 127
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60ec23d83d43dcba0800000000000000
+      internalID: -6067135039786529274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_69
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 989
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25e6014246a0bd9f0800000000000000
+      internalID: -442748713147797934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_70
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 842
+        width: 75
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 511739857d9502390800000000000000
+      internalID: -7845171769440505579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_71
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 842
+        width: 75
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55256c29d2ef03810800000000000000
+      internalID: 1743172527481836117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_72
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 791
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a1980f23aaca5350800000000000000
+      internalID: 6006335855269548452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_73
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 848
+        width: 75
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c70a655dd74e0480800000000000000
+      internalID: -8931121995082758200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_74
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 730
+        width: 128
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77f100942df590810800000000000000
+      internalID: 1732020888473182071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_75
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 848
+        width: 75
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be2e808b9355ebbb0800000000000000
+      internalID: -4918400036652915989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_76
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 791
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4bdd5dbe489e7bb0800000000000000
+      internalID: -4936340677599569077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_77
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 785
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77216bf6682f3fef0800000000000000
+      internalID: -75450109521423753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_78
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 724
+        width: 128
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aa7a671cd2fa54e0800000000000000
+      internalID: -1992012858058442080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_79
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 785
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aef6b964aa253870800000000000000
+      internalID: 8661876343953620648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_80
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 752
+        width: 74
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0172e3bb373aadea0800000000000000
+      internalID: -5847181448729188592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_81
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 752
+        width: 75
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf50a841a7ea4e590800000000000000
+      internalID: -7645794428014426629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_82
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 758
+        width: 74
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 325a76f9fff3bb700800000000000000
+      internalID: 557109346033968419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_83
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 758
+        width: 75
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e58623c1f7f4cc20800000000000000
+      internalID: 3225975850837378528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_84
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 696
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdcbd5b41e9011250800000000000000
+      internalID: 5913518648950897887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_85
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 634
+        width: 127
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac4834ceb1c750bb0800000000000000
+      internalID: -4970430154363665206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_86
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 696
+        width: 59
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eed8c1903cf660a40800000000000000
+      internalID: 5334073692129103342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_87
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 702
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef47faed894f61db0800000000000000
+      internalID: -4821397413645290242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_88
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 640
+        width: 127
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea16df39ae385a210800000000000000
+      internalID: 1343625107368403374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_89
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 702
+        width: 59
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0d8afb91bea08780800000000000000
+      internalID: -8682748003720983283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_90
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 424
+        width: 74
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b08064061305c4870800000000000000
+      internalID: 8668391555780184075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_91
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 424
+        width: 74
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fce810eca465577d0800000000000000
+      internalID: -2921333903996121393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_92
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 373
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50df2b5aa77b57450800000000000000
+      internalID: 6085972208854957317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_93
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 430
+        width: 74
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef2ed70f1f74ee660800000000000000
+      internalID: 7416944740773257982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_94
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 311
+        width: 127
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce217b0eb585a270800000000000000
+      internalID: 8261156142763290304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_95
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 430
+        width: 74
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe9a1afb3fd5bd40800000000000000
+      internalID: 5599627160397192955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_96
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 373
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abdb389711a869710800000000000000
+      internalID: 1699697717036694970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_97
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 367
+        width: 55
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 027505aa8e59d1330800000000000000
+      internalID: 3683264896781276960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_98
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 305
+        width: 127
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 279cdd1fe7bdfecf0800000000000000
+      internalID: -220716518447658638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_99
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 367
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1171586e30aaeb990800000000000000
+      internalID: -7368265006602447087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_100
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 334
+        width: 74
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42efb15537ab308e0800000000000000
+      internalID: -1728332827468235228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_101
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 334
+        width: 74
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca0b230e03a1ea670800000000000000
+      internalID: 8551801539645321388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_102
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 340
+        width: 74
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0be5ccb32cb31f90800000000000000
+      internalID: -6984031735444542710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_103
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 340
+        width: 74
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbca21c3a5f68a640800000000000000
+      internalID: 5091441812087942333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_104
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 277
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0bc4ff76d1c01b00800000000000000
+      internalID: 797350261058489098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_105
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 216
+        width: 127
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b14edbca6bcba6a0800000000000000
+      internalID: -6436827582848679497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_106
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 277
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7276e72efaea64f00800000000000000
+      internalID: 1100759229381109543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_107
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 283
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e30410f94f181a0800000000000000
+      internalID: -6808892197849514474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_108
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 222
+        width: 127
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 609cb90dc8acf4f10800000000000000
+      internalID: 2256244644480010502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_109
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 283
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2de3abfe38b570ec0800000000000000
+      internalID: -3600808754838618414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_110
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 280
+        width: 74
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7bb1f91e4ed1ffe0800000000000000
+      internalID: -1156899202233418882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_111
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 161
+        width: 127
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ddd18bff85989080800000000000000
+      internalID: -9180423394762301991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_112
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 280
+        width: 74
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09de037ef3c25c840800000000000000
+      internalID: 5243645994116115856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_113
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 146
+        width: 74
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06965d2ca5667d220800000000000000
+      internalID: 2510587857284196704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_114
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 146
+        width: 74
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14406b235fecc82c0800000000000000
+      internalID: -4427936781098941375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_115
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 223
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fac6badb425f3a770800000000000000
+      internalID: 8621003649867017391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_116
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 223
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67516388749b40660800000000000000
+      internalID: 7351204208654554486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_117
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 89
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4dd6563d2ea83aa0800000000000000
+      internalID: -6180998979357582001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_118
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 28
+        width: 127
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1b8dc7526530d250800000000000000
+      internalID: 5967328202762062620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backGroundPaws 1_119
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 89
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2812783f6f6f48380800000000000000
+      internalID: -8969773017307078270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      backGroundPaws 1_0: 732222534233573486
+      backGroundPaws 1_1: -2217919213325993022
+      backGroundPaws 1_10: -8870256517855839426
+      backGroundPaws 1_100: -1728332827468235228
+      backGroundPaws 1_101: 8551801539645321388
+      backGroundPaws 1_102: -6984031735444542710
+      backGroundPaws 1_103: 5091441812087942333
+      backGroundPaws 1_104: 797350261058489098
+      backGroundPaws 1_105: -6436827582848679497
+      backGroundPaws 1_106: 1100759229381109543
+      backGroundPaws 1_107: -6808892197849514474
+      backGroundPaws 1_108: 2256244644480010502
+      backGroundPaws 1_109: -3600808754838618414
+      backGroundPaws 1_11: -3857858817188673136
+      backGroundPaws 1_110: -1156899202233418882
+      backGroundPaws 1_111: -9180423394762301991
+      backGroundPaws 1_112: 5243645994116115856
+      backGroundPaws 1_113: 2510587857284196704
+      backGroundPaws 1_114: -4427936781098941375
+      backGroundPaws 1_115: 8621003649867017391
+      backGroundPaws 1_116: 7351204208654554486
+      backGroundPaws 1_117: -6180998979357582001
+      backGroundPaws 1_118: 5967328202762062620
+      backGroundPaws 1_119: -8969773017307078270
+      backGroundPaws 1_12: 283396215584038320
+      backGroundPaws 1_13: -5865721991193434967
+      backGroundPaws 1_14: 2252716487712431318
+      backGroundPaws 1_15: 8536472555792766856
+      backGroundPaws 1_16: -7615260955214787839
+      backGroundPaws 1_17: -6940417345364319562
+      backGroundPaws 1_18: 6556951658573432686
+      backGroundPaws 1_19: -4194971305919151411
+      backGroundPaws 1_2: -5826956995479660152
+      backGroundPaws 1_20: 4136185393373561762
+      backGroundPaws 1_21: -6507431812444538643
+      backGroundPaws 1_22: 8385652099673565549
+      backGroundPaws 1_23: -2307216803157213170
+      backGroundPaws 1_24: 8091748906993580918
+      backGroundPaws 1_25: 8567064561161536716
+      backGroundPaws 1_26: -8187714756625556339
+      backGroundPaws 1_27: 3371411944539895843
+      backGroundPaws 1_28: -2129242784957818768
+      backGroundPaws 1_29: 7276431702611129981
+      backGroundPaws 1_3: 3783834338843579320
+      backGroundPaws 1_30: 9020186451157180305
+      backGroundPaws 1_31: 1262804391411472312
+      backGroundPaws 1_32: 5747844343996737955
+      backGroundPaws 1_33: 4266577531542168379
+      backGroundPaws 1_34: -3445839650831449174
+      backGroundPaws 1_35: 3021092597021953228
+      backGroundPaws 1_36: 8131286345331802425
+      backGroundPaws 1_37: -7391765810888683428
+      backGroundPaws 1_38: 7301303224454651355
+      backGroundPaws 1_39: -7233964307801091256
+      backGroundPaws 1_4: 3039856737578238565
+      backGroundPaws 1_40: 6713224069136472788
+      backGroundPaws 1_41: -1612459158061264546
+      backGroundPaws 1_42: -5912741220885966888
+      backGroundPaws 1_43: -3328427440777376312
+      backGroundPaws 1_44: 6632888869364571995
+      backGroundPaws 1_45: 2281119390521212323
+      backGroundPaws 1_46: 4607146301792331334
+      backGroundPaws 1_47: -454161631900394122
+      backGroundPaws 1_48: -6250516871989594766
+      backGroundPaws 1_49: -2550011604216152877
+      backGroundPaws 1_5: 782610178157458179
+      backGroundPaws 1_50: 5433512841217004054
+      backGroundPaws 1_51: -9014503250808598224
+      backGroundPaws 1_52: 8971976068610377447
+      backGroundPaws 1_53: 5241705695506357349
+      backGroundPaws 1_54: 7497452511947955690
+      backGroundPaws 1_55: 4943919304837217409
+      backGroundPaws 1_56: 7839434803373559540
+      backGroundPaws 1_57: -1053864650317308469
+      backGroundPaws 1_58: 1503404448081639595
+      backGroundPaws 1_59: 2616822973607427891
+      backGroundPaws 1_6: 8071346860502452482
+      backGroundPaws 1_60: -3337116994218506919
+      backGroundPaws 1_61: 2601800237887857628
+      backGroundPaws 1_62: -1222826985642234263
+      backGroundPaws 1_63: 8795547358959292928
+      backGroundPaws 1_64: 6714802181881008505
+      backGroundPaws 1_65: 7434926879176158972
+      backGroundPaws 1_66: 6286139078585600374
+      backGroundPaws 1_67: 4266564492645775020
+      backGroundPaws 1_68: -6067135039786529274
+      backGroundPaws 1_69: -442748713147797934
+      backGroundPaws 1_7: -3141532696179424344
+      backGroundPaws 1_70: -7845171769440505579
+      backGroundPaws 1_71: 1743172527481836117
+      backGroundPaws 1_72: 6006335855269548452
+      backGroundPaws 1_73: -8931121995082758200
+      backGroundPaws 1_74: 1732020888473182071
+      backGroundPaws 1_75: -4918400036652915989
+      backGroundPaws 1_76: -4936340677599569077
+      backGroundPaws 1_77: -75450109521423753
+      backGroundPaws 1_78: -1992012858058442080
+      backGroundPaws 1_79: 8661876343953620648
+      backGroundPaws 1_8: 3485337119586484525
+      backGroundPaws 1_80: -5847181448729188592
+      backGroundPaws 1_81: -7645794428014426629
+      backGroundPaws 1_82: 557109346033968419
+      backGroundPaws 1_83: 3225975850837378528
+      backGroundPaws 1_84: 5913518648950897887
+      backGroundPaws 1_85: -4970430154363665206
+      backGroundPaws 1_86: 5334073692129103342
+      backGroundPaws 1_87: -4821397413645290242
+      backGroundPaws 1_88: 1343625107368403374
+      backGroundPaws 1_89: -8682748003720983283
+      backGroundPaws 1_9: 1213474138159097030
+      backGroundPaws 1_90: 8668391555780184075
+      backGroundPaws 1_91: -2921333903996121393
+      backGroundPaws 1_92: 6085972208854957317
+      backGroundPaws 1_93: 7416944740773257982
+      backGroundPaws 1_94: 8261156142763290304
+      backGroundPaws 1_95: 5599627160397192955
+      backGroundPaws 1_96: 1699697717036694970
+      backGroundPaws 1_97: 3683264896781276960
+      backGroundPaws 1_98: -220716518447658638
+      backGroundPaws 1_99: -7368265006602447087
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,268 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using NUnit.Framework;
+using TMPro;
+using Unity.VisualScripting;
+using UnityEngine;
+using UnityEngine.SceneManagement;
+using UnityEngine.UI;
+
+namespace PokeDatas
+{
+    public class GameData : MonoBehaviour
+    {
+        public enum SceneName
+        {
+            MAIN,
+            BOX,
+            SETTINGS,
+            POKEDEX,
+            SHARE,
+            QRSCAN,
+            CAPTURE,
+        };
+
+        [System.Serializable]
+        public class Allie
+        {
+            public int id;
+            public int rarity;
+            public Sprite sprite;
+            public Sprite spriteShiny;
+            public string name;
+            public bool canEvolve;
+            public int idEvolved;
+            public float scale;
+
+            //public string localisation;
+            //public float catchRate;
+
+            //Contient les stats et les informations du Pokemon
+            public Allie() { }
+            //public Allie(int _id, Stats _stats, Sprite _sprite, string _name)
+            //{
+            //    id = _id;
+            //    sprite = _sprite;
+            //    name = _name;
+            //}
+        }
+        private class SavePokedex
+        {
+            public List<GameData.PokedexInfo> savePokedex = new List<GameData.PokedexInfo>();
+        }
+        [System.Serializable]
+        public class AllieIndividual : Allie
+        {
+            public bool isShiny;
+            public Stats stats;
+            public int exp;
+
+            public AllieIndividual(Allie allie)
+            {
+                id = allie.id;
+                rarity = allie.rarity;
+                sprite = allie.sprite;
+                spriteShiny = allie.spriteShiny;
+                name = allie.name;
+                canEvolve = allie.canEvolve;
+            }
+
+            public AllieIndividual()
+            {
+
+            }
+        }
+
+        [System.Serializable]
+        public class PokedexInfo
+        {
+            public bool isPokemonCatched;
+            public bool isShinyObtained;
+            public int captureLevel;
+
+            public float weight;
+            public float height;
+            public CaptureManager.ZoneName zoneName;
+
+        }
+        //CONTENT OF THE GAMEDATA
+        public List<Allie> Allies = new List<Allie>();
+        public List<PokedexInfo> Pokedex = new List<PokedexInfo>();
+        public List<AllieIndividual> PlayerBox = new List<AllieIndividual>();
+        public string testSingleton;
+        public List<Sprite> backGroundBlurredList = new List<Sprite>();
+        public List<Sprite> backGroundList = new List<Sprite>();
+        public int mainSelectedAllie;
+        public Allie stockedAllie;
+        public AllieIndividual stockedIndividualAllie;
+        ////Which button hase been pressed
+        public string ButtonPressedName;
+
+        public int ButtonPressedIndex;
+        public int starterChoose;
+        public bool firstTime;
+        public string PseudoPlayer;
+        ///QR CODE
+        public string QRCodeStr = null;
+
+        /// /////////////////////////////////////////////////////////////////////////
+
+        private void Awake()
+        {
+            if (_instance == null)
+            {
+                _instance = this;
+                DontDestroyOnLoad(gameObject);
+                _instance.SavePokedexIntoFile();
+            }
+            else
+            {
+                Destroy(gameObject);
+                Debug.Log("Destroy GameData");
+            }
+        }
+
+        private GameData() { }
+        private static GameData _instance;
+        public static GameData Instance { get { return _instance; } }
+
+
+        //Retourne la box du player
+        public List<AllieIndividual> GetAlliesPlayerBox()
+        {
+            return PlayerBox;
+        }
+
+        public Allie GetSpecificAllie(int _id)
+        {
+            return Allies[_id];
+        }
+        public AllieIndividual GetAllieBox(int _id)
+        {
+            return PlayerBox[_id];
+        }
+
+        public string getTest()
+        {
+            return "Test Singleton";
+        }
+        public void setTest(string _test)
+        {
+            testSingleton = _test;
+        }
+
+        //Change Scene Function
+        public void ChangeScene(string _sceneName)
+        {
+
+            SceneManager.LoadScene(_sceneName);
+        }
+        public Allie GetStockedAllie()
+        {
+            return stockedAllie;
+        }
+        public void SetStockedAllie(int _id)
+        {
+            stockedAllie = Allies[_id];
+        }
+        public PokedexInfo GetPokedexInfo(int _id)
+        {
+            return Pokedex[_id];
+        }
+        public AllieIndividual GetStockedIndividualAllie()
+        {
+            return stockedIndividualAllie;
+        }
+        public void SetStockedIndividualAllie(AllieIndividual _individual)
+        {
+            stockedIndividualAllie = _individual;
+        }
+        public void ChangeScene(int _sceneName)
+        {
+            SceneManager.LoadScene(_sceneName);
+        }
+
+        public void ChangeSceneButton(string _sceneName)
+        {
+            SceneManager.LoadScene(_sceneName);
+            ButtonPressedName = GetComponentInParent<Button>().name;
+            Int32.TryParse(GetComponent<Button>().name, out ButtonPressedIndex);
+            if (ButtonPressedName != null)
+            {
+                Debug.Log(ButtonPressedIndex);
+                Debug.Log("Button Pressed!");
+
+            }
+        }
+        public int GetSceneNumberInTotal()
+        {
+
+            return SceneManager.sceneCountInBuildSettings;
+        }
+
+        public void AddCreamon()
+        {
+            GameData.AllieIndividual newCreamonCaught = new GameData.AllieIndividual(GameData.Instance.Allies.Where(creamon => creamon.id == stockedIndividualAllie.id).Select(creamon => creamon).ToList()[0]);
+            newCreamonCaught.isShiny = stockedIndividualAllie.isShiny;
+            newCreamonCaught.stats = stockedIndividualAllie.stats;
+            Debug.Log("Creamon made " + GameData.Instance.PlayerBox.Count);
+
+            GameData.Instance.PlayerBox.Add(newCreamonCaught);
+
+            stockedIndividualAllie = null;
+        }
+
+        private class SaveClass
+        {
+            public List<GameData.AllieIndividual> saveAllieBox = new List<GameData.AllieIndividual>();
+        }
+
+        public void Save()
+        {
+            SaveBoxToJson();
+            SavePokedexIntoFile();
+            Debug.Log("Save");
+
+        }
+
+        public void Load()
+        {
+            LoadBoxToJson();
+            LoadPokedexFromFile();
+            Debug.Log("Load");
+
+        }
+
+        public void SaveBoxToJson()
+        {
+            SaveClass temp = new SaveClass() { saveAllieBox = GameData.Instance.PlayerBox };
+            string json = JsonUtility.ToJson(temp, true);
+            Debug.Log(json);
+            System.IO.File.WriteAllText(Application.dataPath + "/StreamingAssets/BoxSaveFile.json", json);
+        }
+
+        public void LoadBoxToJson()
+        {
+            string json = System.IO.File.ReadAllText(Application.dataPath + "/StreamingAssets/BoxSaveFile.json");
+            Debug.Log(json);
+            GameData.Instance.PlayerBox = JsonUtility.FromJson<SaveClass>(json).saveAllieBox;
+            Debug.Log(GameData.Instance.PlayerBox);
+        }
+        public void SavePokedexIntoFile()
+        {
+
+            SavePokedex temp = new SavePokedex() { savePokedex = GameData.Instance.Pokedex };
+            string json = JsonUtility.ToJson(temp, true);
+            Debug.Log(json);
+            System.IO.File.WriteAllText(Application.dataPath + "/StreamingAssets/PokedexSaveFile.json", json);
+        }
+        public void LoadPokedexFromFile()
+        {
+            string json = System.IO.File.ReadAllText(Application.dataPath + "/StreamingAssets/PokedexSaveFile.json");
+            Debug.Log(json);
+            GameData.Instance.Pokedex = JsonUtility.FromJson<SavePokedex>(json).savePokedex;
+            Debug.Log(GameData.Instance.PlayerBox);
+        }
+    }
+}

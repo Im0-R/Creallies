@@ -1,0 +1,48 @@
+{
+    "saveAllieBox": [
+        {
+            "id": 10,
+            "rarity": 2,
+            "sprite": {
+                "instanceID": 44050
+            },
+            "spriteShiny": {
+                "instanceID": 44052
+            },
+            "name": "Cleanermit",
+            "canEvolve": false,
+            "idEvolved": 0,
+            "scale": 0.0,
+            "isShiny": false,
+            "stats": {
+                "hp": 160.0,
+                "atk": 20.0,
+                "speed": 240.00001525878907,
+                "natures": 4
+            },
+            "exp": 0
+        },
+        {
+            "id": 10,
+            "rarity": 2,
+            "sprite": {
+                "instanceID": 44050
+            },
+            "spriteShiny": {
+                "instanceID": 44052
+            },
+            "name": "Cleanermit",
+            "canEvolve": false,
+            "idEvolved": 0,
+            "scale": 0.0,
+            "isShiny": true,
+            "stats": {
+                "hp": 160.0,
+                "atk": 20.0,
+                "speed": 240.00001525878907,
+                "natures": 4
+            },
+            "exp": 0
+        }
+    ]
+}

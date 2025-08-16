@@ -1,0 +1,963 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!29 &1
+OcclusionCullingSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_OcclusionBakeSettings:
+    smallestOccluder: 5
+    smallestHole: 0.25
+    backfaceThreshold: 100
+  m_SceneGUID: 00000000000000000000000000000000
+  m_OcclusionCullingData: {fileID: 0}
+--- !u!104 &2
+RenderSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 10
+  m_Fog: 0
+  m_FogColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+  m_FogMode: 3
+  m_FogDensity: 0.01
+  m_LinearFogStart: 0
+  m_LinearFogEnd: 300
+  m_AmbientSkyColor: {r: 0.212, g: 0.227, b: 0.259, a: 1}
+  m_AmbientEquatorColor: {r: 0.114, g: 0.125, b: 0.133, a: 1}
+  m_AmbientGroundColor: {r: 0.047, g: 0.043, b: 0.035, a: 1}
+  m_AmbientIntensity: 1
+  m_AmbientMode: 3
+  m_SubtractiveShadowColor: {r: 0.42, g: 0.478, b: 0.627, a: 1}
+  m_SkyboxMaterial: {fileID: 0}
+  m_HaloStrength: 0.5
+  m_FlareStrength: 1
+  m_FlareFadeSpeed: 3
+  m_HaloTexture: {fileID: 0}
+  m_SpotCookie: {fileID: 10001, guid: 0000000000000000e000000000000000, type: 0}
+  m_DefaultReflectionMode: 0
+  m_DefaultReflectionResolution: 128
+  m_ReflectionBounces: 1
+  m_ReflectionIntensity: 1
+  m_CustomReflection: {fileID: 0}
+  m_Sun: {fileID: 0}
+  m_UseRadianceAmbientProbe: 0
+--- !u!157 &3
+LightmapSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 12
+  m_GISettings:
+    serializedVersion: 2
+    m_BounceScale: 1
+    m_IndirectOutputScale: 1
+    m_AlbedoBoost: 1
+    m_EnvironmentLightingMode: 0
+    m_EnableBakedLightmaps: 0
+    m_EnableRealtimeLightmaps: 0
+  m_LightmapEditorSettings:
+    serializedVersion: 12
+    m_Resolution: 2
+    m_BakeResolution: 40
+    m_AtlasSize: 1024
+    m_AO: 0
+    m_AOMaxDistance: 1
+    m_CompAOExponent: 1
+    m_CompAOExponentDirect: 0
+    m_ExtractAmbientOcclusion: 0
+    m_Padding: 2
+    m_LightmapParameters: {fileID: 0}
+    m_LightmapsBakeMode: 1
+    m_TextureCompression: 1
+    m_ReflectionCompression: 2
+    m_MixedBakeMode: 2
+    m_BakeBackend: 1
+    m_PVRSampling: 1
+    m_PVRDirectSampleCount: 32
+    m_PVRSampleCount: 512
+    m_PVRBounces: 2
+    m_PVREnvironmentSampleCount: 256
+    m_PVREnvironmentReferencePointCount: 2048
+    m_PVRFilteringMode: 1
+    m_PVRDenoiserTypeDirect: 1
+    m_PVRDenoiserTypeIndirect: 1
+    m_PVRDenoiserTypeAO: 1
+    m_PVRFilterTypeDirect: 0
+    m_PVRFilterTypeIndirect: 0
+    m_PVRFilterTypeAO: 0
+    m_PVREnvironmentMIS: 1
+    m_PVRCulling: 1
+    m_PVRFilteringGaussRadiusDirect: 1
+    m_PVRFilteringGaussRadiusIndirect: 1
+    m_PVRFilteringGaussRadiusAO: 1
+    m_PVRFilteringAtrousPositionSigmaDirect: 0.5
+    m_PVRFilteringAtrousPositionSigmaIndirect: 2
+    m_PVRFilteringAtrousPositionSigmaAO: 1
+    m_ExportTrainingData: 0
+    m_TrainingDataDestination: TrainingData
+    m_LightProbeSampleCountMultiplier: 4
+  m_LightingDataAsset: {fileID: 20201, guid: 0000000000000000f000000000000000, type: 0}
+  m_LightingSettings: {fileID: 0}
+--- !u!196 &4
+NavMeshSettings:
+  serializedVersion: 2
+  m_ObjectHideFlags: 0
+  m_BuildSettings:
+    serializedVersion: 3
+    agentTypeID: 0
+    agentRadius: 0.5
+    agentHeight: 2
+    agentSlope: 45
+    agentClimb: 0.4
+    ledgeDropHeight: 0
+    maxJumpAcrossDistance: 0
+    minRegionArea: 2
+    manualCellSize: 0
+    cellSize: 0.16666667
+    manualTileSize: 0
+    tileSize: 256
+    buildHeightMesh: 0
+    maxJobWorkers: 0
+    preserveTilesOutsideBounds: 0
+    debug:
+      m_Flags: 0
+  m_NavMeshData: {fileID: 0}
+--- !u!1001 &1303337234
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 695691325201702411, guid: b931adeb9fac3084d89307a29c3eebe8, type: 3}
+      propertyPath: m_Name
+      value: LoadingManager
+      objectReference: {fileID: 0}
+    - target: {fileID: 870103511675999253, guid: b931adeb9fac3084d89307a29c3eebe8, type: 3}
+      propertyPath: m_Pivot.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 870103511675999253, guid: b931adeb9fac3084d89307a29c3eebe8, type: 3}
+      propertyPath: m_Pivot.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 870103511675999253, guid: b931adeb9fac3084d89307a29c3eebe8, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 870103511675999253, guid: b931adeb9fac3084d89307a29c3eebe8, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 870103511675999253, guid: b931adeb9fac3084d89307a29c3eebe8, type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 870103511675999253, guid: b931adeb9fac3084d89307a29c3eebe8, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 870103511675999253, guid: b931adeb9fac3084d89307a29c3eebe8, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 870103511675999253, guid: b931adeb9fac3084d89307a29c3eebe8, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 870103511675999253, guid: b931adeb9fac3084d89307a29c3eebe8, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 870103511675999253, guid: b931adeb9fac3084d89307a29c3eebe8, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 870103511675999253, guid: b931adeb9fac3084d89307a29c3eebe8, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 870103511675999253, guid: b931adeb9fac3084d89307a29c3eebe8, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 870103511675999253, guid: b931adeb9fac3084d89307a29c3eebe8, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 870103511675999253, guid: b931adeb9fac3084d89307a29c3eebe8, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 870103511675999253, guid: b931adeb9fac3084d89307a29c3eebe8, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 870103511675999253, guid: b931adeb9fac3084d89307a29c3eebe8, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 870103511675999253, guid: b931adeb9fac3084d89307a29c3eebe8, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 870103511675999253, guid: b931adeb9fac3084d89307a29c3eebe8, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 870103511675999253, guid: b931adeb9fac3084d89307a29c3eebe8, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 870103511675999253, guid: b931adeb9fac3084d89307a29c3eebe8, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b931adeb9fac3084d89307a29c3eebe8, type: 3}
+--- !u!1 &1512410431
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1512410432}
+  - component: {fileID: 1512410433}
+  - component: {fileID: 1512410434}
+  m_Layer: 0
+  m_Name: GameData
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1512410432
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1512410431}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1512410433
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1512410431}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3454f4a5c48217340acd24678ebec0b4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Allies:
+  - id: 1
+    rarity: 1
+    sprite: {fileID: 21300000, guid: 3a04e17fb9f187e4da1f1225e6bbbc8f, type: 3}
+    spriteShiny: {fileID: 21300000, guid: ee08f5d83325ef144a7f4dfa19750853, type: 3}
+    name: Seaplush
+    canEvolve: 1
+    idEvolved: 2
+    scale: 0
+  - id: 2
+    rarity: 3
+    sprite: {fileID: 21300000, guid: 930db3c49c9fbd943847251119792823, type: 3}
+    spriteShiny: {fileID: 21300000, guid: 897da48d5236c6143a2b37f6dcc88294, type: 3}
+    name: Seasharp
+    canEvolve: 0
+    idEvolved: 0
+    scale: 0
+  - id: 3
+    rarity: 1
+    sprite: {fileID: 21300000, guid: 9bb59187db0a274429eeef7e83af9fcf, type: 3}
+    spriteShiny: {fileID: 21300000, guid: 189bba87c2369a14eb2ca3cd7a4568ae, type: 3}
+    name: Pensoul
+    canEvolve: 1
+    idEvolved: 4
+    scale: 0
+  - id: 4
+    rarity: 3
+    sprite: {fileID: 21300000, guid: 9f7cc55d79f7c7248a8cff2a819f52e3, type: 3}
+    spriteShiny: {fileID: 21300000, guid: 83b540c715465f1458f225342414b6af, type: 3}
+    name: Brushadow
+    canEvolve: 0
+    idEvolved: 0
+    scale: 0
+  - id: 5
+    rarity: 1
+    sprite: {fileID: 21300000, guid: f305cc38fdc5a9d42b9d1ddbb7fd489b, type: 3}
+    spriteShiny: {fileID: 21300000, guid: 2f02a3a764fddf44691be98b348b8ded, type: 3}
+    name: Toucompil
+    canEvolve: 0
+    idEvolved: 0
+    scale: 0
+  - id: 6
+    rarity: 1
+    sprite: {fileID: 21300000, guid: 1cf1d94740711c2449f872e471f3d294, type: 3}
+    spriteShiny: {fileID: 21300000, guid: 0b3b9b18d191eed41862f5d7785be098, type: 3}
+    name: Squeak
+    canEvolve: 0
+    idEvolved: 0
+    scale: 0
+  - id: 7
+    rarity: 1
+    sprite: {fileID: 21300000, guid: d169a76ae92d3094f908d4c8cc58b3de, type: 3}
+    spriteShiny: {fileID: 21300000, guid: 04b7eec9942c737479b74ff22852cfba, type: 3}
+    name: Yek
+    canEvolve: 0
+    idEvolved: 0
+    scale: 0
+  - id: 8
+    rarity: 1
+    sprite: {fileID: 21300000, guid: 80a28ac30aa07be42b74a42dbf1bc264, type: 3}
+    spriteShiny: {fileID: 21300000, guid: 4997d859bdad7d544878fdc363da6375, type: 3}
+    name: Javermin
+    canEvolve: 1
+    idEvolved: 9
+    scale: 0
+  - id: 9
+    rarity: 2
+    sprite: {fileID: 21300000, guid: b7da4622387a9b74ea74b2e318a737f1, type: 3}
+    spriteShiny: {fileID: 21300000, guid: 6d1d3ea327cc44d428d99f06e13f0d0e, type: 3}
+    name: Javaqueen
+    canEvolve: 0
+    idEvolved: 0
+    scale: 0
+  - id: 10
+    rarity: 2
+    sprite: {fileID: 21300000, guid: a32776e2444d64f4bb4fc21146fab5dc, type: 3}
+    spriteShiny: {fileID: 21300000, guid: 831af02ff45151b4281a36c8f97d20ab, type: 3}
+    name: Cleanermit
+    canEvolve: 0
+    idEvolved: 0
+    scale: 0
+  - id: 11
+    rarity: 2
+    sprite: {fileID: 21300000, guid: 8d9051b03d137944d80023fab8ecd198, type: 3}
+    spriteShiny: {fileID: 21300000, guid: 5d3e293e4cf88d04b88c991a4c35f45e, type: 3}
+    name: Cigargoyle
+    canEvolve: 0
+    idEvolved: 0
+    scale: 0
+  - id: 12
+    rarity: 2
+    sprite: {fileID: 21300000, guid: c81af2477a30cfe40821c68c696af7c9, type: 3}
+    spriteShiny: {fileID: 21300000, guid: 682d66176f04b27409337a4bf58bd90e, type: 3}
+    name: Brawnny
+    canEvolve: 0
+    idEvolved: 0
+    scale: 0
+  - id: 13
+    rarity: 2
+    sprite: {fileID: 21300000, guid: 4acba8631ca77b74d8786386497f32e1, type: 3}
+    spriteShiny: {fileID: 21300000, guid: b6c515cf23221f84ba9bbe84d2f1a97f, type: 3}
+    name: Cinty
+    canEvolve: 1
+    idEvolved: 14
+    scale: 0
+  - id: 14
+    rarity: 3
+    sprite: {fileID: 21300000, guid: ff032b9b86a86af41878ac5d2ec9828d, type: 3}
+    spriteShiny: {fileID: 21300000, guid: a96946314fd05be48b80f43a54d75955, type: 3}
+    name: Minthia
+    canEvolve: 0
+    idEvolved: 0
+    scale: 0
+  - id: 15
+    rarity: 2
+    sprite: {fileID: 21300000, guid: 9ffd77c02d2d3824ea4a4ad3d6fe0d25, type: 3}
+    spriteShiny: {fileID: 21300000, guid: 2ad645a70942faf48951fc0607dc33b1, type: 3}
+    name: Shriecken
+    canEvolve: 0
+    idEvolved: 0
+    scale: 0
+  - id: 16
+    rarity: 2
+    sprite: {fileID: 21300000, guid: 64c95d54fc33f76409ea2d9dd4130c36, type: 3}
+    spriteShiny: {fileID: 21300000, guid: 6d9d752178dcf4345aff42771fa2c4c8, type: 3}
+    name: Poltergeissler
+    canEvolve: 0
+    idEvolved: 0
+    scale: 0
+  - id: 17
+    rarity: 2
+    sprite: {fileID: 21300000, guid: fa81415c05272ee4287fb3cd448e1a77, type: 3}
+    spriteShiny: {fileID: 21300000, guid: 6e8c0f523a22b13448f732af5908b7e2, type: 3}
+    name: Cartipus
+    canEvolve: 0
+    idEvolved: 0
+    scale: 0
+  - id: 18
+    rarity: 2
+    sprite: {fileID: 21300000, guid: 51c0710fc1fe18c48a79f06b7b718902, type: 3}
+    spriteShiny: {fileID: 21300000, guid: 2f60cedb93bf5dc44a29c883ce728b7a, type: 3}
+    name: Snaeky
+    canEvolve: 0
+    idEvolved: 0
+    scale: 0
+  - id: 19
+    rarity: 2
+    sprite: {fileID: 21300000, guid: bec3ef6827f9b71409d2703572ef5b75, type: 3}
+    spriteShiny: {fileID: 21300000, guid: 7712bdab71dd99544a10cc2e2e465349, type: 3}
+    name: Kanglouglou
+    canEvolve: 0
+    idEvolved: 0
+    scale: 0
+  - id: 20
+    rarity: 2
+    sprite: {fileID: 21300000, guid: cef1d0052c418114fac597bd83976586, type: 3}
+    spriteShiny: {fileID: 21300000, guid: c305ee8e1279d634b8ea2f34796852fd, type: 3}
+    name: Robono
+    canEvolve: 0
+    idEvolved: 0
+    scale: 0
+  - id: 21
+    rarity: 2
+    sprite: {fileID: 21300000, guid: 417d6fb982815904393699cb92ac416e, type: 3}
+    spriteShiny: {fileID: 21300000, guid: e1f9634afc4e4664290db1bc75388f49, type: 3}
+    name: Milestun
+    canEvolve: 1
+    idEvolved: 22
+    scale: 0
+  - id: 22
+    rarity: 3
+    sprite: {fileID: 21300000, guid: d46b044b745f5fc43a2959441f5ba9d2, type: 3}
+    spriteShiny: {fileID: 21300000, guid: 684288fb46d74f34c98af8b6e07b9d1b, type: 3}
+    name: Hydreadline
+    canEvolve: 0
+    idEvolved: 0
+    scale: 0
+  - id: 23
+    rarity: 4
+    sprite: {fileID: 21300000, guid: 8f757a0ba99a8d844b429ec671a66d80, type: 3}
+    spriteShiny: {fileID: 21300000, guid: b32f1381ff96db142992dfcaca53fa21, type: 3}
+    name: Zennchide
+    canEvolve: 0
+    idEvolved: 0
+    scale: 0
+  - id: 24
+    rarity: 4
+    sprite: {fileID: 21300000, guid: ca55e7b17a178714091c17f0cd6a34ce, type: 3}
+    spriteShiny: {fileID: 21300000, guid: b1d1da9a464b87d409d78f5738dc92e9, type: 3}
+    name: Zennoga
+    canEvolve: 0
+    idEvolved: 0
+    scale: 0
+  - id: 25
+    rarity: 4
+    sprite: {fileID: 21300000, guid: c832af67c48e4f543b25bc900d4c10f5, type: 3}
+    spriteShiny: {fileID: 21300000, guid: 9080e1fbe33c82b4d8b0936b0d1ea5e3, type: 3}
+    name: Control-Z
+    canEvolve: 0
+    idEvolved: 0
+    scale: 0
+  Pokedex:
+  - isPokemonCatched: 0
+    isShinyObtained: 0
+    captureLevel: 0
+    weight: 3.5
+    height: 0.9
+    zoneName: 0
+  - isPokemonCatched: 0
+    isShinyObtained: 0
+    captureLevel: 0
+    weight: 0
+    height: 0
+    zoneName: 0
+  - isPokemonCatched: 0
+    isShinyObtained: 0
+    captureLevel: 0
+    weight: 0
+    height: 0
+    zoneName: 0
+  - isPokemonCatched: 0
+    isShinyObtained: 0
+    captureLevel: 0
+    weight: 0
+    height: 0
+    zoneName: 0
+  - isPokemonCatched: 0
+    isShinyObtained: 0
+    captureLevel: 0
+    weight: 0
+    height: 0
+    zoneName: 0
+  - isPokemonCatched: 0
+    isShinyObtained: 0
+    captureLevel: 0
+    weight: 0
+    height: 0
+    zoneName: 0
+  - isPokemonCatched: 0
+    isShinyObtained: 0
+    captureLevel: 0
+    weight: 0
+    height: 0
+    zoneName: 0
+  - isPokemonCatched: 0
+    isShinyObtained: 0
+    captureLevel: 0
+    weight: 0
+    height: 0
+    zoneName: 0
+  - isPokemonCatched: 0
+    isShinyObtained: 0
+    captureLevel: 0
+    weight: 0
+    height: 0
+    zoneName: 0
+  - isPokemonCatched: 0
+    isShinyObtained: 0
+    captureLevel: 0
+    weight: 0
+    height: 0
+    zoneName: 0
+  - isPokemonCatched: 0
+    isShinyObtained: 0
+    captureLevel: 0
+    weight: 0
+    height: 0
+    zoneName: 0
+  - isPokemonCatched: 0
+    isShinyObtained: 0
+    captureLevel: 0
+    weight: 0
+    height: 0
+    zoneName: 0
+  - isPokemonCatched: 0
+    isShinyObtained: 0
+    captureLevel: 0
+    weight: 0
+    height: 0
+    zoneName: 0
+  - isPokemonCatched: 0
+    isShinyObtained: 0
+    captureLevel: 0
+    weight: 0
+    height: 0
+    zoneName: 0
+  - isPokemonCatched: 0
+    isShinyObtained: 0
+    captureLevel: 0
+    weight: 0
+    height: 0
+    zoneName: 0
+  - isPokemonCatched: 0
+    isShinyObtained: 0
+    captureLevel: 0
+    weight: 0
+    height: 0
+    zoneName: 0
+  - isPokemonCatched: 0
+    isShinyObtained: 0
+    captureLevel: 0
+    weight: 0
+    height: 0
+    zoneName: 0
+  - isPokemonCatched: 0
+    isShinyObtained: 0
+    captureLevel: 0
+    weight: 0
+    height: 0
+    zoneName: 0
+  - isPokemonCatched: 0
+    isShinyObtained: 0
+    captureLevel: 0
+    weight: 0
+    height: 0
+    zoneName: 0
+  - isPokemonCatched: 0
+    isShinyObtained: 0
+    captureLevel: 0
+    weight: 0
+    height: 0
+    zoneName: 0
+  - isPokemonCatched: 0
+    isShinyObtained: 0
+    captureLevel: 0
+    weight: 0
+    height: 0
+    zoneName: 0
+  - isPokemonCatched: 0
+    isShinyObtained: 0
+    captureLevel: 0
+    weight: 0
+    height: 0
+    zoneName: 0
+  - isPokemonCatched: 0
+    isShinyObtained: 0
+    captureLevel: 0
+    weight: 0
+    height: 0
+    zoneName: 0
+  - isPokemonCatched: 0
+    isShinyObtained: 0
+    captureLevel: 4
+    weight: 0
+    height: 0
+    zoneName: 0
+  - isPokemonCatched: 0
+    isShinyObtained: 0
+    captureLevel: 4
+    weight: 0
+    height: 0
+    zoneName: 0
+  InitPokedex: []
+  PlayerBox: []
+  testSingleton: 
+  backGroundBlurredList:
+  - {fileID: -3701226336632946504, guid: 6241dcb25a8ef4c4db21f6df5fc4f237, type: 3}
+  - {fileID: 7938283442863753403, guid: 3df3734e403faf1499bbdcfcf2834993, type: 3}
+  - {fileID: 440750950231250944, guid: 3add825398a989940a2d765510bc195c, type: 3}
+  - {fileID: -246713251456481064, guid: 0c8559b2e664203498d54fc495a641ca, type: 3}
+  - {fileID: -4389422879180305824, guid: 29adaba67a5223d44845200e09d0f996, type: 3}
+  backGroundList:
+  - {fileID: 3823081975884303515, guid: 0df4be67798f9b049be0b6ffd342e205, type: 3}
+  - {fileID: -8878587760153116115, guid: 22b46d663e62f534aaad2f1b2288a241, type: 3}
+  - {fileID: 1537678234740324152, guid: 480ccb1cfd560b940bc06a6c6315625b, type: 3}
+  - {fileID: -2359482053863011555, guid: 7e7bb4776a130294194662f127fc5802, type: 3}
+  - {fileID: -8208172928094784322, guid: e8358b1f2c34c754bb78d13e0011ba1d, type: 3}
+  mainSelectedAllie: 0
+  stockedAllie:
+    id: 0
+    rarity: 0
+    sprite: {fileID: 0}
+    spriteShiny: {fileID: 0}
+    name: 
+    canEvolve: 0
+    idEvolved: 0
+    scale: 0
+  stockedIndividualAllie:
+    id: 0
+    rarity: 0
+    sprite: {fileID: 0}
+    spriteShiny: {fileID: 0}
+    name: 
+    canEvolve: 0
+    idEvolved: 0
+    scale: 0
+    isShiny: 0
+    stats:
+      hp: 0
+      atk: 0
+      speed: 0
+      natures: 0
+    exp: 0
+  shinyRate: 64
+  ButtonPressedName: 
+  ButtonPressedIndex: 0
+  QRCodeStr: HALL1
+  infoplayer:
+    firstTime: 1
+    starterChoose: 1
+    PseudoPlayer: Player
+    selectedPictures: 0
+--- !u!114 &1512410434
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1512410431}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f8854ac378ed79a4893c3c1941ba71c8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!1 &2126287789
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2126287791}
+  - component: {fileID: 2126287793}
+  - component: {fileID: 2126287790}
+  - component: {fileID: 2126287792}
+  m_Layer: 0
+  m_Name: AudioSource
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!82 &2126287790
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2126287789}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 7565611379067077479, guid: 887ded10aae903f498814fb7be65510b, type: 2}
+  m_audioClip: {fileID: 8300000, guid: c0f8545df33e55544845f34f428997de, type: 3}
+  m_Resource: {fileID: 8300000, guid: c0f8545df33e55544845f34f428997de, type: 3}
+  m_PlayOnAwake: 1
+  m_Volume: 0.225
+  m_Pitch: 1
+  Loop: 1
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+--- !u!4 &2126287791
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2126287789}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2126287792
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2126287789}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d8207133d7c60e489203c4a83aab18e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  soundList:
+  - name: BUTTON_PRESSED
+    mixer: {fileID: 0}
+    sounds: {fileID: 8300000, guid: 3231e025cb942864599fa416bb5ea425, type: 3}
+  - name: ALLIE_HIT
+    mixer: {fileID: 0}
+    sounds: {fileID: 8300000, guid: 83b0565275dc8f1458f16d7b93b577d0, type: 3}
+  - name: ALLIE_ATTACK
+    mixer: {fileID: 0}
+    sounds: {fileID: 8300000, guid: b46c9d80769c59443bdd53fe74e00841, type: 3}
+  - name: CLICK_BAR
+    mixer: {fileID: 0}
+    sounds: {fileID: 8300000, guid: 9bd05aa858f3b0f49beb729fd4e32bd4, type: 3}
+  - name: QTE_CIRCLE
+    mixer: {fileID: 0}
+    sounds: {fileID: 8300000, guid: f0113687d8893b245bb5ffa14f2804aa, type: 3}
+  - name: SHINY_POP
+    mixer: {fileID: 0}
+    sounds: {fileID: 8300000, guid: 8c9a22d56a57662498c6c0b5f6fe571d, type: 3}
+  - name: CATCH
+    mixer: {fileID: 0}
+    sounds: {fileID: 8300000, guid: 16e6efa087eca93488c5e24cc08748ca, type: 3}
+  - name: TOTAL_SOUNDS_TYPE
+    mixer: {fileID: 0}
+    sounds: {fileID: 0}
+  - name: BATTLE_MUSIC
+    mixer: {fileID: 0}
+    sounds: {fileID: 8300000, guid: b307d18c8d0f8124cb2c3047cf300902, type: 3}
+  - name: MAIN_MENU_MUSIC
+    mixer: {fileID: 0}
+    sounds: {fileID: 8300000, guid: c0f8545df33e55544845f34f428997de, type: 3}
+  - name: TOTAL_SOUNDS_TYPE
+    mixer: {fileID: 0}
+    sounds: {fileID: 0}
+  FXSource: {fileID: 2126287790}
+  audioMixers:
+  - {fileID: 24300002, guid: 887ded10aae903f498814fb7be65510b, type: 2}
+  - {fileID: 7565611379067077479, guid: 887ded10aae903f498814fb7be65510b, type: 2}
+  - {fileID: -348133709462326281, guid: 887ded10aae903f498814fb7be65510b, type: 2}
+  volumesPrefs: []
+--- !u!82 &2126287793
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2126287789}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: -348133709462326281, guid: 887ded10aae903f498814fb7be65510b, type: 2}
+  m_audioClip: {fileID: 0}
+  m_Resource: {fileID: 0}
+  m_PlayOnAwake: 1
+  m_Volume: 0.652
+  m_Pitch: 1
+  Loop: 1
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+--- !u!1660057539 &9223372036854775807
+SceneRoots:
+  m_ObjectHideFlags: 0
+  m_Roots:
+  - {fileID: 1512410432}
+  - {fileID: 2126287791}
+  - {fileID: 1303337234}
