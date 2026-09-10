@@ -73,8 +73,8 @@ The structure and naming conventions helped a mixed team work in parallel, under
 
 ## More
 
-- [View the full portfolio case study](https://leopaulvray.lovable.app/projects/creallies)
-- [Explore my other projects](https://leopaulvray.lovable.app)
+- [View the full portfolio case study](https://leopaulvray.com/projects/creallies)
+- [Explore my other projects](https://leopaulvray.com)
 
 ## Author
 
