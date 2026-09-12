@@ -17,7 +17,7 @@
 
 ## Overview
 
-Creallies is a mobile game created during a ten-day Créajeux sprint by five programmers and three artists.
+Creallies is a mobile game developed at Créajeux from September to Christmas by five programmers and three artists.
 
 Players scan QR codes placed in the real world to discover creatures called Allies. Each encounter can lead to a capture sequence, after which the creature joins the player's collection and becomes available through the box and Pokédex interfaces.
 
@@ -25,7 +25,7 @@ Players scan QR codes placed in the real world to discover creatures called Alli
 |---|---|
 | **Role** | Project structure, systems and integration |
 | **Team** | 5 programmers, 3 artists |
-| **Duration** | 10 days |
+| **Duration** | September to Christmas |
 | **Platform** | Mobile |
 | **Engine** | Unity 6000.0.9f1 |
 
@@ -40,9 +40,9 @@ Players scan QR codes placed in the real world to discover creatures called Alli
 
 ## My Contribution
 
-I established a clear project hierarchy at the beginning of the sprint and contributed to system integration across the game.
+I established a clear project hierarchy at the beginning of the project and contributed to system integration across the game.
 
-The structure and naming conventions helped a mixed team work in parallel, understand ownership and integrate new content quickly during a very short production schedule.
+The structure and naming conventions helped a mixed team work in parallel, understand ownership and integrate new content quickly throughout several months of production.
 
 ## Code Highlights
 
@@ -62,7 +62,7 @@ The structure and naming conventions helped a mixed team work in parallel, under
 - Persistent JSON save data
 - Cross-scene game state
 - UI integration
-- Fast multidisciplinary production
+- Multidisciplinary production and integration
 
 ## Getting Started
 
